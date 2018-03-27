@@ -1,0 +1,8 @@
+<launch>
+    <group ns="scene">
+        <node name="scene" pkg="pcl_ros" type="pcd_to_pointcloud" args="$(find hw4_0660064)/PointCloud/scene.pcd 3"/>
+    </group>
+    <group ns="target">
+        <node name="target" pkg="pcl_ros" type="pcd_to_pointcloud" args="$(find hw4_0660064)/PointCloud/target.pcd 3"/>
+    </group>
+</launch>

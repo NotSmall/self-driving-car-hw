@@ -1,0 +1,33 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "/home/notsmall/catkin_ws/devel/include",
+                    "/opt/ros/kinetic/include",
+                    "/home/notsmall/catkin_ws/src/0660064_hw3/include",
+                    "/home/notsmall/catkin_ws/src/beginner_tutorials/include",
+                    "/home/notsmall/catkin_ws/src/carhw2/include",
+                    "/home/notsmall/catkin_ws/src/hw4_0660064/include",
+                    "/home/notsmall/catkin_ws/src/using_markers/include",
+                    "/usr/include"
+                ]
+            },
+            "includePath": [
+                "/home/notsmall/catkin_ws/devel/include",
+                "/opt/ros/kinetic/include",
+                "/home/notsmall/catkin_ws/src/0660064_hw3/include",
+                "/home/notsmall/catkin_ws/src/beginner_tutorials/include",
+                "/home/notsmall/catkin_ws/src/carhw2/include",
+                "/home/notsmall/catkin_ws/src/hw4_0660064/include",
+                "/home/notsmall/catkin_ws/src/using_markers/include",
+                "/usr/include"
+            ],
+            "name": "Linux",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 3
+}
